@@ -1,0 +1,26 @@
+{
+  "name": "game-directory",
+  "version": "0.0.1",
+  "description": "An application to load a game directory on a computer, allowing you to manage games and perform actions on them.",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx electromon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilo1505/game-directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilo1505/game-directory/issues"
+  },
+  "homepage": "https://github.com/camilo1505/game-directory#readme",
+  "devDependencies": {
+    "electron": "^22.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
